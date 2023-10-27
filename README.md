@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oxxxmor
+- 👀 I’m interested in creating IL2CPP Applications, just generally programming.
+- 🌱 I’m currently learning C++ and C#
+- 📫 How to reach me: Nope. :)
